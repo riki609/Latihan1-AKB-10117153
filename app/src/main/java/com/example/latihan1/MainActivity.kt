@@ -18,3 +18,11 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
+/*
+Tanggal Pengerjaan : 7 April 2020
+Deskripsi Pengerjaan : Membuat class biodata, kode, MainActivity, dan ok. Membuat layout biodata,
+kode, main, dan ok
+Nim : 10117153
+Nama : Riki Ahmad Fauzi
+Kelas : IF4
+ */
